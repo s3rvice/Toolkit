@@ -1,19 +1,19 @@
 # Doxxer-Toolkit
-• Todo lo necesario que un doxxer debe de tener siempre a mano
+- Everything a doxxer should have at hand at all times.
 
-• No me hago responsable del mal uso de esta herramienta es bajo su propia responsabilidad
+- I am not responsible for the misuse of this tool is at your own risk.
 # Instalacion / Installation
-```bash
+````bash
 apt install git -y
 ```
-```bash
+````bash
 git clone https://github.com/Euronymou5/Doxxer-Toolkit
 ```
-```bash
+````bash
 cd Doxxer-Toolkit
 ```
-```bash
-# Instalacion automatica / Automatic installation
+````bash
+# Automatic installation / Automatic installation
 
 Termux: bash install.sh
 
@@ -21,40 +21,40 @@ Linux (Debian): sudo bash install.sh
 
 Black Arch Linux: sudo bash install_arch.sh
 ```
-```bash
-# Comando para iniciar la herramienta / Command to start the tool:
+````bash
+# Command to start the tool / Command para iniciar la herramienta:
 
-Version en español / Spanish version
+Versión en español / Spanish version
 python3 dox.py
 
-Version en ingles / English version
+Versión en inglés / English version
 python3 dox_en.py
 ```
-# Testeado en / Tested in
-• Linux (Debian): ✔
+# Tested on / Tested in
+- Linux (Debian): ✔
 
-• Termux: ✔
+- Termux: ✔
 
-• Black Arch Linux: ✔
-# Version
-• v2.3 sacare actualizaciones de esta herramienta
+- Black Arch Linux: ✔
+# Version.
+- v2.3 I will release updates of this tool.
 
-# Nuevas funciones / New functions
+# New functions / New functions
 
-**• Añadido version en ingles! / Added English version!**
+**- Added English version / Added versión en ingles / Added English version!
 
-**• Añadido sherlock y nexfil a la categoria de busqueda de usuario / Added sherlock and nexfil to user search category**
+**- Added sherlock and nexfil to user search category** **- Added sherlock and nexfil to user search category** **- Added sherlock and nexfil to user search category**
 
-**• Añadido zphisher y 0ni-Phish a la categoria de phishing / Added zphisher and 0ni-Phish to the phishing category**
+**- Added zphisher and 0ni-Phish to the phishing category / Added zphisher and 0ni-Phish to the phishing category** **- Added osint to the user search category** **- Added osint to the user search category**
 
-**• Añadido osint a un email (BETA) / Added osint to an email (BETA)**
+**- Added osint to an email (BETA) / Added osint to an email (BETA)** ** **- Added socialscan to the phishing category** **- Added osint to a email (BETA)
 
-**• Añadido socialscan a busqueda de usuario / Added socialscan to user search**
+**- Added socialscan to user search / Added socialscan to user search** **- Añadido socialscan a user search** **- Añadido paginas de phishing / Added socialscan to user search**
 
-**• Añadido paginas de phishing y iplogger en ingles y español / Added phishing and iplogger pages in English and Spanish**
+**- Added phishing and iplogger pages in English and Spanish / Añadido paginas de phishing y iplogger pages en inglés y español**
 
-# Imagenes
+# Images
 <img src="https://media.discordapp.net/attachments/995599976463859713/1008188220678361088/doxxer_menu.png?width=590&height=431">
 
 # Contacto / Contact
-• Discord: Euronymou5#3155
+- Discord: Euronymou5#3155
